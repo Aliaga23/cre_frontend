@@ -8,7 +8,7 @@ const MainContent = ({ formik }) => {
       {/* Datos Generales */}
       <div className="mb-8">
         <h2 className="text-2xl font-semibold mb-4 text-gray-800 border-b-2 border-gray-200 pb-2">
-          Datos Generales Test 54
+          Datos Generales Test
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
